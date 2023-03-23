@@ -1,7 +1,7 @@
 {
   "name": "contextexample",
   "version": "0.1.0",
-  "homepage": "https://Smart-SABA.github.io/E_Commerce",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
